@@ -1,4 +1,4 @@
-FROM ansiblesemaphore/semaphore
+FROM ansiblesemaphore/semaphore:v2.5.1
 MAINTAINER S.Koulouzis
 USER root
 
